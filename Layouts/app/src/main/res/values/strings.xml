@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">Layouts</string>
+    <string name="button">Button</string>
+    <string name="textview">TextView</string>
+    <string name="button1">Button1</string>
+    <string name="button2">Button2</string>
+    <string name="textview1">TextView1</string>
+</resources>

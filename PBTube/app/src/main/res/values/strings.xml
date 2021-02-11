@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">PB Tube</string>
+    <string name="comments">Comments:</string>
+    <string name="_123">123</string>
+    <string name="_1k">1k</string>
+    <string name="likes">Likes:</string>
+    <string name="rohit_awasome">Rohit:- Awasome.....</string>
+    <string name="virat_cool">Virat:- Cool.......</string>
+    <string name="nick_fabulous">Nick:- Fabulous</string>
+    <string name="sid_mind_blowing">Sid:- Mind blowing</string>
+</resources>

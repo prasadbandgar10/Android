@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">screen</string>
+    <string name="welcome_to_pb_resturant">Welcome to PB Resturant</string>
+    <string name="item1">Item 1</string>
+    <string name="item2">Item 2</string>
+    <string name="item3">Item 3</string>
+    <string name="placeorder">Place Order</string>
+    <string name="please_wait">Please wait....</string>
+</resources>

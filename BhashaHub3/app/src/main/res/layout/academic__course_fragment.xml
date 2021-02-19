@@ -1,0 +1,73 @@
+<?xml version="1.0" encoding="utf-8"?>
+<FrameLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="@drawable/acbg"
+    tools:context=".ui.course.Academic_Course">
+
+    <TextView
+        android:id="@+id/textView"
+        android:layout_width="195dp"
+        android:layout_height="46dp"
+        android:layout_marginStart="40dp"
+        android:layout_marginLeft="40dp"
+        android:layout_marginTop="100dp"
+        android:fontFamily="sans-serif-black"
+        android:includeFontPadding="true"
+        android:text="@string/class_8"
+        android:textColor="@color/black"
+        android:textSize="30sp" />
+
+    <TextView
+        android:id="@+id/textView1"
+        android:layout_width="195dp"
+        android:layout_height="46dp"
+        android:layout_marginStart="40dp"
+        android:layout_marginLeft="40dp"
+        android:layout_marginTop="200dp"
+        android:fontFamily="sans-serif-black"
+        android:includeFontPadding="true"
+        android:text="@string/class_9"
+        android:textColor="@color/black"
+        android:textSize="30sp"/>
+
+    <TextView
+        android:id="@+id/textView2"
+        android:layout_width="195dp"
+        android:layout_height="46dp"
+        android:layout_marginStart="40dp"
+        android:layout_marginLeft="40dp"
+        android:layout_marginTop="300dp"
+        android:fontFamily="sans-serif-black"
+        android:includeFontPadding="true"
+        android:text="@string/class_10"
+        android:textColor="@color/black"
+        android:textSize="30sp"/>
+
+    <TextView
+        android:id="@+id/textView3"
+        android:layout_width="195dp"
+        android:layout_height="46dp"
+        android:layout_marginStart="40dp"
+        android:layout_marginLeft="40dp"
+        android:layout_marginTop="400dp"
+        android:fontFamily="sans-serif-black"
+        android:includeFontPadding="true"
+        android:text="@string/class_11"
+        android:textColor="@color/black"
+        android:textSize="30sp"/>
+
+    <TextView
+        android:id="@+id/textView4"
+        android:layout_width="195dp"
+        android:layout_height="47dp"
+        android:layout_marginStart="40dp"
+        android:layout_marginLeft="40dp"
+        android:layout_marginTop="500dp"
+        android:fontFamily="sans-serif-black"
+        android:includeFontPadding="true"
+        android:text="@string/class_12"
+        android:textColor="@color/black"
+        android:textSize="30sp"/>
+</FrameLayout>

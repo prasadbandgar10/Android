@@ -1,0 +1,31 @@
+<resources>
+    <string name="app_name">BhashaHub</string>
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+    <string name="nav_header_title">Android Studio</string>
+    <string name="nav_header_subtitle">android.studio@android.com</string>
+    <string name="nav_header_desc">Navigation header</string>
+    <string name="action_settings">Settings</string>
+
+    <string name="menu_home">Home</string>
+    <string name="menu_gallery">Gallery</string>
+    <string name="menu_slideshow">Slideshow</string>
+    <string name="bhasha_hub">Bhasha Hub</string>
+    <string name="bhashahub405_gmail_com">bhashahub405@gmail.com</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="Courses">Academic_Course</string>
+    <string name="this_is_academic_course_fragment">This is Academic Course Fragment</string>
+    <string name="this_is_level_wise_course_fragment">This is level wise course fragment</string>
+    <string name="class_8">Class 8</string>
+    <string name="class_9">Class 9</string>
+    <string name="class_10">Class 10</string>
+    <string name="class_11">Class 11</string>
+    <string name="class_12">Class 12</string>
+    <string name="german">German</string>
+    <string name="french">French</string>
+    <string name="japanese">Japanese</string>
+    <string name="spanish">Spanish</string>
+    <string name="sanskrit">Sanskrit</string>
+    <string name="russian">Russian</string>
+</resources>

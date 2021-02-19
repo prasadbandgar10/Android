@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="utf-8"?>
+<navigation xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:id="@+id/mobile_navigation"
+    app:startDestination="@+id/nav_home">
+
+    <fragment
+        android:id="@+id/nav_home"
+        android:name="com.example.bhashahub.ui.home.HomeFragment"
+        android:label="@string/menu_home"
+        tools:layout="@layout/fragment_home" />
+
+    <fragment
+        android:id="@+id/nav_gallery"
+        android:name="com.example.bhashahub.ui.gallery.GalleryFragment"
+        android:label="@string/menu_gallery"
+        tools:layout="@layout/fragment_gallery" />
+
+    <fragment
+        android:id="@+id/nav_academic_course"
+        android:name="com.example.bhashahub.ui.course.Academic_Course"
+        android:label="Academic Course"
+        tools:layout="@layout/academic__course_fragment" />
+    <fragment
+        android:id="@+id/nav_level_wise_course"
+        android:name="com.example.bhashahub.ui.course.Level_Wise_Course"
+        android:label="Level wise Course"
+        tools:layout="@layout/level__wise__course_fragment" />
+</navigation>

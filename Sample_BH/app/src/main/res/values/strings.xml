@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">Sample_BH</string>
+    <string name="i1">i1</string>
+    <string name="p">p</string>
+    <string name="n">n</string>
+    <string name="i2">i2</string>
+    <string name="i3">i3</string>
+    <string name="i4">i4</string>
+    <string name="i5">i5</string>
+    <string name="class_8">Class 8</string>
+    <string name="contact_us">Contact Us</string>
+
+</resources>

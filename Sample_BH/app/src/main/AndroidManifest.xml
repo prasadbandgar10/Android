@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="utf-8"?>
+<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+    package="com.example.sample_bh">
+
+    <uses-permission android:name="android.permission.INTERNET" />
+    <uses-permission android:name="android.permission.CALL_PHONE" />
+
+    <application
+        android:allowBackup="true"
+        android:icon="@drawable/bh"
+        android:label="BhashaHub"
+        android:roundIcon="@drawable/bh"
+        android:supportsRtl="true"
+        android:theme="@style/Theme.Sample_BH">
+        <activity
+            android:name=".Activity3"
+            android:parentActivityName=".Courses" />
+        <activity
+            android:name=".Activity2"
+            android:parentActivityName=".Courses" />
+        <activity
+            android:name=".Courses"
+            android:parentActivityName=".MainActivity" />
+        <activity
+            android:name=".Contact_Us"
+            android:parentActivityName=".MainActivity" />
+        <activity
+            android:name=".AboutUs"
+            android:parentActivityName=".MainActivity" />
+        <activity
+            android:name=".FullView"
+            android:theme="@style/fullViewTheme" />
+        <activity
+            android:name=".Gallery"
+            android:parentActivityName=".MainActivity" />
+        <activity android:name=".MainActivity">
+            <intent-filter>
+                <action android:name="android.intent.action.MAIN" />
+                <action android:name="android.intent.action.VIEW" />
+
+                <category android:name="android.intent.category.LAUNCHER" />
+            </intent-filter>
+        </activity>
+    </application>
+
+</manifest>
